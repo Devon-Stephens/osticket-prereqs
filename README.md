@@ -48,7 +48,7 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/PA7jUwY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to Control Panels and under the "Programs" section your gonna click "Uninstall a Program".
+- Go to Control Panels and under the "Programs" section your gonna click "Uninstall a Program".
 </p>
 <br />
 
@@ -56,7 +56,7 @@ Go to Control Panels and under the "Programs" section your gonna click "Uninstal
 <img src="https://i.imgur.com/QyDhJBP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, your gonna click the option on the left of the screen "Turn windows features on or off".
+- Next, your gonna click the option on the left of the screen "Turn windows features on or off".
 </p>
 <br />
 
@@ -64,14 +64,55 @@ Next, your gonna click the option on the left of the screen "Turn windows featur
 <img src="https://i.imgur.com/hLMIj4M.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install/Enable IIS in Windows.
+- Install/Enable IIS in Windows.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/kDVLKGj.png"60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kDVLKGj.png" height=60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and Install Web Platform Installer.
+- Download and Install Web Platform Installer, then open app after installation.
 </p>
 <br />
+                                                                                        <p>
+<img src="https://i.imgur.com/iAmMsJM.png" height=40%" width="50%" <p float="left"> alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Add "MySQL 5.5" to installation list. Along with all simple versions of PHP x86 up until 7.3 (IIS Express)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/v0b0xRr.png" height=60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Add all simple versions of PHP x86 up until 7.3 (IIS Express).
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/i7XLjaa.png"60%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Download and Install PHP Manager 1.5.0 for IIS, along with any other missing PHP x86 files.
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/zSVvBRd.png"60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+-Install Microsoft Visual C++ 2008 Redistributable Package
+</p>
+<br />
+                                                                                        
+ <p>
+<img src="https://i.imgur.com/INiW7OW.png"60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Install osTicket v1.15.8, then complete the configurations.
+
+</p>
+<br />                                                                                        
+                                                                                      
