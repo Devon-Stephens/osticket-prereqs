@@ -42,30 +42,36 @@ New Permissions -> Everyone -> All
 - MySQL Database: osTicket ---> MySQL Username: root ---> MySQL Password: Password1
 -  Click “Install Now!” 
 
-- Item 5
-
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/Z1iLpyn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PA7jUwY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Control Panels and under the "Programs" section your gonna click "Uninstall a Program".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QyDhJBP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, your gonna click the option on the left of the screen "Turn windows features on or off".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hLMIj4M.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install/Enable IIS in Windows.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kDVLKGj.png"60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download and Install Web Platform Installer.
 </p>
 <br />
