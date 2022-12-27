@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -40,7 +40,7 @@ New Permissions -> Everyone -> All
 - Continue Setting up osTicket in the browser (then click Continue)
 - Download and Install HeidiSQL -> Create a new session, root/Password1 -> Connect to the session -> Create a database called “osTicket”
 - MySQL Database: osTicket ---> MySQL Username: root ---> MySQL Password: Password1
--  Click “Install Now!” 
+- Click “Install Now!” 
 
 <h2>Installation Steps</h2>
 
@@ -48,7 +48,7 @@ New Permissions -> Everyone -> All
 <img src="https://i.imgur.com/PA7jUwY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Go to Control Panels and under the "Programs" section your gonna click "Uninstall a Program".
+  - Go to Control Panels and under the "Programs" section your gonna click "Uninstall a Program".
 </p>
 <br />
 
